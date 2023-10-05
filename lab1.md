@@ -1,7 +1,9 @@
 # Lab 1
 ## ls
 ls with no arguments shows the contents of the current directory, which in this case is `/home`. The command works as intended and does not produce an error.
+
 ![Image](ls1.png)
+
 ls with a directory as an argument shows the contents of that directory, which in this case is `/home/lecture1`. The command works as intended and does not produce an error.
 ![Image](ls2.png)
 ls with a file as an argument just shows the path to that directory, whichin this case is `/home/lecture1/README`. The command works as intended and does not produce an error. 
