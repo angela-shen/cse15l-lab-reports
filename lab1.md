@@ -23,7 +23,7 @@ current working directory: `/home/lecture1`
 
 `cd` with no arguments returns the user to the home directory. If the user is in the home directory, the current working directory will not change. The command works as intended and does not produce an error.
 
-![Image](cd1.png)   
+![Image](cd4.png)   
 
 current working directory: `/home`
 
