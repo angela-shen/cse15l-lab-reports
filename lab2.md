@@ -20,11 +20,15 @@ File containing SSH key:
 
 Path to private key:
 
-`C:\Users\Angela\.ssh\id_rsa`
+![Image](rsa1.png)
 
 Path to public key:
 
-`C:\Users\Angela\.ssh\id_rsa.pub`
+![Image](rsa2.png)
+
+`ssh` in `ieng6`:
+
+![Image](ssh1.png)
 
 ## Part 3
 
