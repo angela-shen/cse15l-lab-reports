@@ -9,6 +9,7 @@
 ![Image](code2.png)
 
 StringServer:
+
 ![Image](ss1.png)
 
 ![Image](ss2.png)
