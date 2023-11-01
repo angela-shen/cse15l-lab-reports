@@ -64,11 +64,11 @@ StringServer:
 Directory containing SSH keys: 
 ![Image](path.png)
 
-### Path to the FILE containing the private key:
+### Path to the FILE containing the private SSH key:
 
 ![Image](rsa1.png)
 
-### Path to the FILE containing the public key:
+### Path to the FILE containing the public SSH key:
 
 ![Image](rsa2.png)
 
