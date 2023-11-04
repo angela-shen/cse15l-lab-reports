@@ -7,22 +7,22 @@
 A failure inducing input: The array `{1, 2, 3}` 
 
 ```
-  @Test  
-  public void testReverseInPlace() {
-    int[] input1 = { 3 };
+  @Test 
+  public void testReverseInPlace2() {
+    int[] input1 = { 1, 2, 3 };
     ArrayExamples.reverseInPlace(input1);
-    assertArrayEquals(new int[]{ 3 }, input1);
+    assertArrayEquals(new int[]{ 3, 2, 1 }, input1);
 	}
 ```
 
 An input that doesn't induce a failure: The array `{3}`
 
 ```
-  @Test 
-  public void testReverseInPlace2() {
-    int[] input1 = { 1, 2, 3 };
+  @Test  
+  public void testReverseInPlace() {
+    int[] input1 = { 3 };
     ArrayExamples.reverseInPlace(input1);
-    assertArrayEquals(new int[]{ 3, 2, 1 }, input1);
+    assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
 
