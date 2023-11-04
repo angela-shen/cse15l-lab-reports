@@ -1,4 +1,4 @@
-![image](https://github.com/angela-shen/cse15l-lab-reports/assets/136782411/751ee71f-3926-40b3-8073-d26b042f4364)# Lab 3
+# Lab 3
 
 ## Part 1
 
