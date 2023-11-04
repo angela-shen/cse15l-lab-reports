@@ -7,8 +7,8 @@
 A failure inducing input: The array `{1, 2, 3}` 
 
 ```
-@Test 
-	public void testReverseInPlace() {
+  @Test  
+  public void testReverseInPlace() {
     int[] input1 = { 3 };
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{ 3 }, input1);
