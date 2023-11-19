@@ -1,7 +1,7 @@
 # Lab 4
 ## Step 4: Log into ieng6
 ![Image](lab42.png)
-
+ 
 Keys pressed: I already had the command `ssh cs15lfa23oh@ieng6.ucsd.edu` in my clipboard, so I copy pasted it by right clicking on the terminal and then used `<enter>` to run the command.
 
 ## Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
